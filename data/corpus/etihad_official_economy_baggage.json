@@ -1,0 +1,23 @@
+{
+  "source_url": "https://www.etihad.com/en-in/help/faq/fares",
+  "checked_at": "2026-10-07",
+  "note": "Supplement to the Etihad Hub snapshot. The official Etihad India fares FAQ contains the general Economy baggage table missing from the Hub policy library.",
+  "chunks": [
+    {
+      "id": "etihad-official-economy-baggage-2026-10-07",
+      "topic": "policy",
+      "document_title": "Economy baggage allowance by fare",
+      "version_id": "etihad-fares-faq-checked-2026-10-07",
+      "is_current": true,
+      "effective_date_status": "official_page_checked_2026-10-07",
+      "section_path": "Etihad Airways > Fares > Economy > Baggage information",
+      "snapshot_page": null,
+      "passage": "For Etihad Airways Economy travel to or from destinations outside the USA and Canada, including Delhi to Abu Dhabi, the published cabin bag allowance is one bag up to 7 kg for Basic, Value, Comfort, and Deluxe fares.\nFor the same Economy fares, published checked baggage allowances are: Basic — fees apply (no included checked allowance); Value — 25 kg; Comfort — 30 kg; Deluxe — 40 kg.\nThe allowance depends on the booked fare type. Check the ticket or booking for the exact fare type and any applicable Etihad Guest benefits.",
+      "table_cell_ids": [],
+      "scope": {"cabin": "economy", "route_group": "outside_usa_canada", "source": "etihad_official_fares_faq"},
+      "specificity": 3,
+      "source_url": "https://www.etihad.com/en-in/help/faq/fares",
+      "fixture": false
+    }
+  ]
+}

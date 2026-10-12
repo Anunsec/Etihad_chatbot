@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.etihad.com/en/etihadguest/tiers-and-benefits",
+  "checked_at": "2026-10-09",
+  "note": "Official Etihad Guest Platinum tier benefits supplement. Benefits remain subject to tier validity, selection, fare, route, operating-airline, availability, and the detailed terms shown in the member account.",
+  "chunks": [
+    {
+      "id": "etihad-official-guest-platinum-core-2026-10-09",
+      "topic": "policy",
+      "document_title": "Etihad Guest Platinum benefits",
+      "version_id": "etihad-guest-tiers-checked-2026-10-09",
+      "is_current": true,
+      "effective_date_status": "official_page_checked_2026-10-09",
+      "section_path": "Etihad Guest > Tiers and benefits > Platinum > Core benefits",
+      "snapshot_page": null,
+      "passage": "Etihad Guest Platinum core benefits listed by Etihad include 100% bonus miles on eligible activity, exclusive discounts, Etihad Chauffeur with an eligible Business Promo fare, priority baggage, no miles expiry, First Class priority check-in, fast-track immigration where available, a guaranteed Business seat up to 48 hours before departure subject to the published restrictions, priority boarding, Business Lounge access for the member plus one guest, standard seat selection for the member plus three guests, free onboard Wi-Fi surfing, Gold nomination, membership extension, selection of an Etihad Guest number, and Avis Budget tier match. Etihad also lists 15 minutes of complimentary spa service at Zayed International Airport as a standard benefit for Platinum members and above. Eligibility, availability, eligible flights and fares, and other programme terms apply.",
+      "table_cell_ids": [],
+      "scope": {"programme": "etihad_guest", "tier": "platinum", "benefit_type": "core"},
+      "specificity": 4,
+      "source_url": "https://www.etihad.com/en/etihadguest/tiers-and-benefits",
+      "fixture": false
+    },
+    {
+      "id": "etihad-official-guest-platinum-custom-2026-10-09",
+      "topic": "policy",
+      "document_title": "Etihad Guest Platinum benefits",
+      "version_id": "etihad-guest-tiers-checked-2026-10-09",
+      "is_current": true,
+      "effective_date_status": "official_page_checked_2026-10-09",
+      "section_path": "Etihad Guest > Tiers and benefits > Platinum > Custom benefits",
+      "snapshot_page": null,
+      "passage": "Etihad states that Platinum members choose any five Custom Benefits. The published choices are same-day flexibility; two Etihad Chauffeur uses for eligible Economy Comfort or Deluxe fares; two complimentary refunds for eligible Promo fares; First Lounge access for the member plus one guest; up to 20 kg excess baggage on eligible fares; four Home Check-in uses in Abu Dhabi; two complimentary upgrades on eligible routes; Economy seat selection for the member plus three guests; and six Reward Shop vouchers. These are choices rather than automatic entitlements, and each option is subject to its detailed conditions. Members must select Custom and Beyond Benefits before arriving at the airport, and selections cannot be changed during the tier-validity period.",
+      "table_cell_ids": [],
+      "scope": {"programme": "etihad_guest", "tier": "platinum", "benefit_type": "custom"},
+      "specificity": 4,
+      "source_url": "https://www.etihad.com/en/etihadguest/tiers-and-benefits",
+      "fixture": false
+    },
+    {
+      "id": "etihad-official-guest-platinum-beyond-2026-10-09",
+      "topic": "policy",
+      "document_title": "Etihad Guest Platinum benefits",
+      "version_id": "etihad-guest-tiers-checked-2026-10-09",
+      "is_current": true,
+      "effective_date_status": "official_page_checked_2026-10-09",
+      "section_path": "Etihad Guest > Tiers and benefits > Platinum > Beyond benefits",
+      "snapshot_page": null,
+      "passage": "At 175,000 Tier Miles, Etihad Guest Platinum members can select any two published Beyond Benefits: three Business Lounge passes, three Priority Access passes, or 20,000 bonus Etihad Guest Miles. Core benefits begin when the new tier is confirmed. Etihad asks members to choose Custom Benefits within 30 days; otherwise they may be assigned automatically. Benefits and vouchers can only be used during tier validity and remain subject to the programme terms.",
+      "table_cell_ids": [],
+      "scope": {"programme": "etihad_guest", "tier": "platinum", "benefit_type": "beyond"},
+      "specificity": 4,
+      "source_url": "https://www.etihad.com/en/etihadguest/tiers-and-benefits",
+      "fixture": false
+    }
+  ]
+}

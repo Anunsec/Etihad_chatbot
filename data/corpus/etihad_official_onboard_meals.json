@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.etihad.com/en/plan/fly-with-etihad/onboard-services/meals",
+  "checked_at": "2026-10-09",
+  "note": "Official Etihad onboard meals and special meals pages. Actual dishes and availability can depend on the flight; dietary and children's meals require advance requests where specified.",
+  "chunks": [
+    {
+      "id": "etihad-official-onboard-meals-cabins-2026-10-09",
+      "topic": "policy",
+      "document_title": "Etihad onboard food and meal options",
+      "version_id": "etihad-onboard-meals-checked-2026-10-09",
+      "is_current": true,
+      "effective_date_status": "official_page_checked_2026-10-09",
+      "section_path": "Fly with Etihad > Onboard services > Meals > Cabin dining",
+      "snapshot_page": null,
+      "passage": "Onboard food options vary by cabin and flight. In Economy, Etihad offers complimentary Halal meals or snacks and complimentary drinks, including soft drinks, tea, coffee and alcoholic beverages. Business offers à la carte dining, and First offers gourmet dining. The general meals page does not give an exact menu for a particular flight.",
+      "table_cell_ids": [],
+      "scope": {"service": "onboard_meals", "cabins": ["economy", "business", "first"]},
+      "specificity": 4,
+      "source_url": "https://www.etihad.com/en/plan/fly-with-etihad/onboard-services/meals",
+      "fixture": false
+    },
+    {
+      "id": "etihad-official-onboard-meals-special-2026-10-09",
+      "topic": "policy",
+      "document_title": "Etihad special meal and dietary options",
+      "version_id": "etihad-special-meals-checked-2026-10-09",
+      "is_current": true,
+      "effective_date_status": "official_page_checked_2026-10-09",
+      "section_path": "Help > Special assistance > Special meals",
+      "snapshot_page": null,
+      "passage": "Special food and meal options on Etihad-operated flights include vegetarian, vegan, Hindu, Kosher, diabetic, gluten-intolerant and low-lactose meals, subject to availability and the published meal rules. Request most special meals at least 24 hours before departure; Kosher meals require at least 72 hours. On flights shorter than 2 hours 50 minutes, Etihad accepts special-meal requests only for diabetic, gluten-intolerant or low-lactose meals. Etihad says all meals served are Halal.",
+      "table_cell_ids": [],
+      "scope": {"service": "special_meals", "flight_operator": "etihad"},
+      "specificity": 4,
+      "source_url": "https://www.etihad.com/en/help/special-assistance/special-meals",
+      "fixture": false
+    },
+    {
+      "id": "etihad-official-onboard-meals-children-2026-10-09",
+      "topic": "policy",
+      "document_title": "Etihad children's meal options",
+      "version_id": "etihad-onboard-meals-checked-2026-10-09",
+      "is_current": true,
+      "effective_date_status": "official_page_checked_2026-10-09",
+      "section_path": "Fly with Etihad > Onboard services > Meals > Children's meals",
+      "snapshot_page": null,
+      "passage": "Children's food and meal options are available on Etihad flights longer than 2 hours 50 minutes. Request a children's meal at least 24 hours before departure. Availability depends on the flight and advance request.",
+      "table_cell_ids": [],
+      "scope": {"service": "children_meals"},
+      "specificity": 4,
+      "source_url": "https://www.etihad.com/en/plan/fly-with-etihad/onboard-services/meals",
+      "fixture": false
+    }
+  ]
+}
